@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    font-size: 35px;
+   background-color: darkmagenta;
+   text-align: center;
+
+}
